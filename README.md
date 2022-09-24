@@ -1,4 +1,4 @@
-# Partitura-Musical
+# Partitura Musical
 
 Protótipo criado no Marvel App, onde simula uma Plataforma Mobile sobre um curso de ensino de Partitura Musical.
 
